@@ -1,8 +1,8 @@
-# Go Bootcamp RecipeDB Analyzer
+# Go RecipeDB Analyzer
 
 ## Overview
 
-Go Bootcamp RecipeDB Analyzer is a command-line application for analyzing recipe databases stored in XML and JSON formats. This tool reads, compares, and assesses changes in different recipe databases, highlighting modifications such as added, removed, or altered recipes and ingredients.
+Go RecipeDB Analyzer is a command-line application for analyzing recipe databases stored in XML and JSON formats. This tool reads, compares, and assesses changes in different recipe databases, highlighting modifications such as added, removed, or altered recipes and ingredients.
 
 ## Table of Contents
 
